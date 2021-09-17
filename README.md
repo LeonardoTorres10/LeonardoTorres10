@@ -6,9 +6,9 @@
 
 Atualmente estou cursando Bacharelado em Engenharia de Software 🌱
 
-Estou estudando Dev Front-end e depois vou estudar Dev Back-end   💼
+Estou estudando Dev Full Stack  💼
 
-Sou apaixonado pela área de desenvolvimento de software e também desafios e aprender.
+Sou apaixonado pela área de desenvolvimento de software e também desafios e aprendizagem.
 
 Meu interesse é em ser um Dev  Full-Stack e aprender um pouco de  cada etapa do Desenvolvimento Web  🚀
 <p>
